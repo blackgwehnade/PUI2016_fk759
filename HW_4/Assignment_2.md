@@ -1,9 +1,4 @@
-| Statistical Analyses    | IV(s)           | IV type(s)  | DV(s)     | DV type(s)    | Control Var  | Control Var Type | Question to be Answered   | H0      | alpha     | link to paper     |
-
-| ---                     | ---                     | ---                     | ---                     | ---                     | ---                      | ---                     | ---                     | ---                     | ---                     | ---                     
-
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Statistical Analyses            |    IV(s)            |        IV type(s)       |        DV(s)       |     DV type(s)          |      Control Var         |    Question to be answered           |       H0        |         alpha       |   link to paper          |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|      Path Analysis      | 1, Whether or not a household had experienced maternal death  |   dichotomous                 |       2, Annual Income and Expenditure per Capita in the household        |  continuous          |  1, maternal age               |     continuous (could also be categorical)   | Does maternal death impact household economic status after the event?  | Maternal death either increases or does not change annual income and expenditure per capita  | 0.041, 0.001  |   |
+|      t-test             | 3, Gender, age, educational level                             |   dichotomous, categorical    |       1, Cognitive score                                                  |  continuous          |  1, Normal cognitive ability   |    continuous                                | Do the cognitive functions of healthy elderly change over time?        | Cognitive function in the healthy elderly declines over time                                 | 0.05          |
