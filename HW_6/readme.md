@@ -4,3 +4,5 @@ curling and wrangling the data.
 
 Then I worked with Jordan Vani (who contributed much more heavily) in running the statistical tests
 and creating the requested plots, as well as the final significance testing of the null hypothesis.
+
+# FBB Where is your authorea article link??
